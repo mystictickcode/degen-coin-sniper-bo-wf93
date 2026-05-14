@@ -1,4 +1,4 @@
-# 
+# instant degen coin sniper bot | slippage-control + gas-optimization is the best degen coin sniper bot, featuring slippage-control and gas-optimization. Fast, smart, and optimized
 
 
 
